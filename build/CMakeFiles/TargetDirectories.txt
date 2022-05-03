@@ -1,0 +1,3 @@
+C:/FunProjects/OGLCourse/build/CMakeFiles/hui.dir
+C:/FunProjects/OGLCourse/build/CMakeFiles/ALL_BUILD.dir
+C:/FunProjects/OGLCourse/build/CMakeFiles/ZERO_CHECK.dir
